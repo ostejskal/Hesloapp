@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hesloapp", "Hesloapp\Hesloapp.csproj", "{7770E421-9796-4719-9B3A-77FB8B936311}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OvereniHesla", "OvereniHesla\OvereniHesla.csproj", "{499CB60C-50FF-45E2-A75C-9CEEFE44733D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7770E421-9796-4719-9B3A-77FB8B936311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7770E421-9796-4719-9B3A-77FB8B936311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7770E421-9796-4719-9B3A-77FB8B936311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7770E421-9796-4719-9B3A-77FB8B936311}.Release|Any CPU.Build.0 = Release|Any CPU
+		{499CB60C-50FF-45E2-A75C-9CEEFE44733D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{499CB60C-50FF-45E2-A75C-9CEEFE44733D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{499CB60C-50FF-45E2-A75C-9CEEFE44733D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{499CB60C-50FF-45E2-A75C-9CEEFE44733D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3C0DF84-B488-4B84-B5C3-C63CA5EBAA03}
+	EndGlobalSection
+EndGlobal
